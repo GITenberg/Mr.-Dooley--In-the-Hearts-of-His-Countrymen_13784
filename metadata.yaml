@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1559
     wikipedia: http://en.wikipedia.org/wiki/Finley_Peter_Dunne
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13784#Mr.-Dooley--In-the-Hearts-of-His-Countrymen
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2004-10-18'
 gutenberg_type: Text
